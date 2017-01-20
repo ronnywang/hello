@@ -7,7 +7,7 @@ public function hello()
 
 public function world()
 {
-    echo "World";
+    echo "世界";
 }
 
 hello();
