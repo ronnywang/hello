@@ -2,7 +2,7 @@
 
 public function hello()
 {
-    echo "哈囉";
+    echo "哈囉　";
 }
 
 public function world()
